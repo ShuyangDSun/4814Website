@@ -1,0 +1,159 @@
+.image-icon {
+    height: 35px;
+}
+
+.bg-dark {
+    background-color: black !important;
+}
+
+.page-title {
+    text-align: center;
+}
+
+.navbar-brand {
+    background-image: url(https: //team4814.com/wp-content/uploads/2016/11/cropped-team4814-2.png);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255);
+    font-weight: 300;
+    border-right: 10px solid black;
+    border-left: 10px solid black;
+}
+
+.nav-link:hover {
+    color: #777777 !important;
+}
+
+.navbar-dark .navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+.navbar-toggler:hover {
+    background-color: #1f1f1f;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: default;
+}
+
+.menu-text {
+    display: inline-block;
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+/* menu divider */
+
+.dropdown-divider {
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.footer-item {
+    display: inline-block;
+}
+
+/* watermark logo */
+.watermark {
+    background-image: url(4814-watermark_400x400.png);
+    background-position: 50px 50px;
+    background-repeat: no-repeat;
+    background-size: 200px 120px;
+    background-attachment: fixed;
+}
+
+/* page stuff */
+.page-content {
+    min-width: 60%;
+}
+
+
+.footer-link:-webkit-any-link {
+    color: white;
+    cursor: default;
+}
+
+.site-info .footer-link:hover {
+    color: color: #777777;
+    text-decoration: none;
+}
+
+.footer-menu {
+    vertical-align: top;
+    display: inline-block;
+    padding: 0px 20px;
+    width: 49%;
+}
+
+.footer-menu .menu-text {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.footer-nav {
+    margin: 0;
+    line-height: 2.5;
+}
+
+.verticalSplit {
+    vertical-align: middle;
+    display: inline-block;
+    border: 0.5px solid;
+    height: 280px;
+}
+
+
+
+/* transparent background stuff */
+.background-image {
+    background-size: cover;
+
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.page-content-text {
+    vertical-align: top;
+    width: 49%;
+    height: 100%;
+    padding: 50px 100px;
+    display: inline-block;
+    text-indent: 60px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.page-content-image {
+    vertical-align: top;
+    width: 49%;
+    height: 100%;
+    padding: 50px 100px;
+    display: inline-block;
+    text-align: center;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.last {
+    margin-bottom: 0px;
+}
+
+.paragraph {
+    display: block;
+    text-align: left;
+    font-size: 15px;
+    text-indent: 60px;
+}
+
+.mouse_hover:hover {
+    cursor: pointer;
+}
